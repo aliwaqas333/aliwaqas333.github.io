@@ -54,7 +54,7 @@ function Projects() {
               title="Sorting algorithms visualized"
               description="A ReactJS-based application visualizing key sorting algorithms including bubble, insertion, selection, merge, quick, heap, and radix sorts, complete with their time complexities."
               ghLink="https://github.com/aliwaqas333/sorting-algorithms-visualized-react"
-              demoLink="https://blogs.soumya-jit.tech/"
+              demoLink="https://aliwaqas333.github.io/sorting-algorithms-visualized-react/"
             />
           </Col>
 
